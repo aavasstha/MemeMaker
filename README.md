@@ -1,1 +1,1 @@
-THis is readme created in github website
+This is a small project I made while I progressed through my coding bootcamp at SpringBoard. 
